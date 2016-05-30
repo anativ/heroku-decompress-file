@@ -1,0 +1,5 @@
+#!/bin/sh
+
+echo "Running Release script"
+
+tar -xvzf ./lib/ip2location/IP-COUNTRY-ISP.BIN.tar.gz
