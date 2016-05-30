@@ -1,1 +1,3 @@
 #!/bin/bash
+
+echo '----- MY BUILD PACK Decompress -----'
