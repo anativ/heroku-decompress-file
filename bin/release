@@ -1,8 +1,6 @@
 #!/bin/sh
 
 echo "Running Release script"
-cd ~/lib/ip2location
+cd /app/lib/ip2location
 tar -xvzf IP-COUNTRY-ISP.BIN.tar.gz
 echo "current directory"
-pwd
-ls -l
