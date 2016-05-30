@@ -6,3 +6,5 @@ pwd
 cd $1
 cd ./lib/ip2location
 tar -xvzf IP-COUNTRY-ISP.BIN.tar.gz
+ls
+echo "--- Done ---"
