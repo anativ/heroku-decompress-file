@@ -2,5 +2,6 @@
 
 echo "---- Running Compile script ----"
 pwd
-cd ./lib/ip2location
+cd /app
+ls
 tar -xvzf IP-COUNTRY-ISP.BIN.tar.gz
