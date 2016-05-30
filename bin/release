@@ -1,8 +1,7 @@
 #!/bin/sh
 
-echo "Running Release script"
-
-cat <<YAML
+cat << EOF
 ---
-{}
-YAML
+addons:
+default_process_types:
+EOF
