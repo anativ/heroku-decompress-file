@@ -1,13 +1,5 @@
 #!/bin/sh
 
-echo "---- Running Release script ----"
-pwd
-cd $1
-cd ./lib/ip2location
-tar -xvzf IP-COUNTRY-ISP.BIN.tar.gz
-
-# cp IP-COUNTRY-ISP.BIN $2/lib/ip2location
-
 echo "--- Done ---"
 
 
