@@ -1,10 +1,14 @@
 #!/bin/sh
 
 
+# echo "---- Running Compile script ----"
+# pwd
+# cd $1
+# cd ./lib/ip2location
+# tar -xvzf IP-COUNTRY-ISP.BIN.tar.gz
+#
+# # cp IP-COUNTRY-ISP.BIN $2/lib/ip2location
+#
+# echo "--- Done ---"
+
 echo "---- Running Compile script ----"
-pwd
-cd $1
-cd ./lib/ip2location
-tar -xvzf IP-COUNTRY-ISP.BIN.tar.gz
-ls
-echo "--- Done ---"
