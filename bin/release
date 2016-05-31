@@ -1,8 +1,5 @@
 #!/bin/sh
 
-echo "--- Done ---"
-
-
 cat << EOF
 ---
 addons:
