@@ -8,5 +8,9 @@ cd $1
 cd ./lib/ip2location
 tar -xvzf IP-COUNTRY-ISP.BIN.tar.gz
 rm -rf IP-COUNTRY-ISP.BIN.tar.gz
+
+tar -xvzf GeoLite2-City.mmdb.tar.gz
+rm -rf GeoLite2-City.mmdb.tar.gz
+
 ls
 echo "--- Done ---"
